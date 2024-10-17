@@ -20,7 +20,10 @@
 		 Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
 		 Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
 	<description><![CDATA[
-	Inspired by the <a href="https://github.com/sainnhe/gruvbox-material?tab=readme-ov-file">gruvbox-material</a>
+	Light Theme - inspired by the <a href="https://github.com/sainnhe/gruvbox-material?tab=readme-ov-file">gruvbox-material</a>
+	<br>
+	<br>
+	Supported Languages: Java, Rust, Go, JS/TS
   ]]></description>
 
 	<!-- Short summary of new features and bugfixes in the latest plugin version.
