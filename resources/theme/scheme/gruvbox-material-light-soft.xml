@@ -1,4 +1,4 @@
-<scheme name="Gruvbox Material Light Medium" version="142" parent_scheme="Default">
+<scheme name="Gruvbox Material Light Soft" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2024.2.3.0.0</property>
@@ -15,23 +15,26 @@
     <option name="DIFF_SEPARATOR_WAVE" value="928374" />
     <option name="DOCUMENTATION_COLOR" value="f2e5bc" />
     <option name="ERROR_HINT" value="efd2b3" />
-    <option name="FILESTATUS_ADDED" value="67d17" />
+    <option name="FILESTATUS_ADDED" value="6c782e" />
     <option name="FILESTATUS_COPIED" value="67d17" />
-    <option name="FILESTATUS_DELETED" value="6c707e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c707e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="8c4f00" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="de1b2e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="de1b2e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="de1b2e" />
-    <option name="FILESTATUS_MERGED" value="643cb8" />
-    <option name="FILESTATUS_MODIFIED" value="33b3" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="33b3" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="33b3" />
+    <option name="FILESTATUS_DELETED" value="a89984" />
+    <option name="FILESTATUS_HIJACKED" value="b47109" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a89984" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c35e0a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c14a4a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c14a4a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c14a4a" />
+    <option name="FILESTATUS_MERGED" value="945e80" />
+    <option name="FILESTATUS_MODIFIED" value="45707a" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="45707a" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="45707a" />
+    <option name="FILESTATUS_OBSOLETE" value="6f8352" />
     <option name="FILESTATUS_RENAMED" value="33b3" />
-    <option name="FILESTATUS_UNKNOWN" value="b23247" />
-    <option name="FILESTATUS_addedOutside" value="67d17" />
-    <option name="FILESTATUS_changelistConflict" value="de1b2e" />
-    <option name="FILESTATUS_modifiedOutside" value="33b3" />
+    <option name="FILESTATUS_SWITCHED" value="4c7a5d" />
+    <option name="FILESTATUS_UNKNOWN" value="ae5858" />
+    <option name="FILESTATUS_addedOutside" value="6c782e" />
+    <option name="FILESTATUS_changelistConflict" value="c14a4a" />
+    <option name="FILESTATUS_modifiedOutside" value="45707a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="d3d5b8" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="HINT_BORDER" value="e6d5ae" />
@@ -43,7 +46,6 @@
     <option name="LINE_NUMBERS_COLOR" value="d5c4a1" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4f3829" />
     <option name="LOOKUP_COLOR" value="f2e5bc" />
-    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="45707a" />
     <option name="MODIFIED_TAB_ICON" value="45707a" />
@@ -59,6 +61,7 @@
     <option name="SELECTION_BACKGROUND" value="e6d5ae" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="a89984" />
+    <option name="STICKY_LINES_HOVERED_COLOR" value="ebdbb2" />
     <option name="ScrollBar.hoverThumbColor" value="eddeb5" />
     <option name="ScrollBar.thumbColor" value="ebdbb2" />
     <option name="TEARLINE_COLOR" value="e6d5ae" />
@@ -931,7 +934,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="654735" />
-        <option name="BACKGROUND" value="fbf1c7" />
+        <option name="BACKGROUND" value="f2e5bc" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

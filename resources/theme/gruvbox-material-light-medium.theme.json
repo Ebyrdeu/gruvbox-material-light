@@ -1,8 +1,8 @@
 {
 	"name": "Gruvbox Material Light Medium",
 	"author": "Maxim Khnykin",
-	"editorScheme": "/gruvbox-material-light-medium",
 	"dark": false,
+	"editorScheme": "/theme/scheme/gruvbox-material-light-medium.xml",
 	"colors": {
 		"bg0": "#fbf1c7",
 		"bg1": "#f4e8be",
@@ -31,16 +31,16 @@
 			"foreground": "fg0",
 			"selectionForeground": "fg0",
 			"selectionInactiveForeground": "fg0",
-			"selectionBackground": "bg2",
-			"selectionInactiveBackground": "bg2",
+			"selectionBackground": "bg5",
+			"selectionInactiveBackground": "bg5",
 			"inactiveBackground": "bg0",
 			"disabledBackground": "bg0",
 			"separatorColor": "bg2",
 			"iconColor": "fg0"
 		},
 		"Borders": {
-			"color": "bg2",
-			"ContrastBorderColor": "bg2"
+			"color": "bg0",
+			"ContrastBorderColor": "bg1"
 		},
 		"ActionButton": {
 			"hoverBackground": "bg2",
@@ -68,7 +68,7 @@
 		},
 		"ComboBox": {
 			"modifiedItemForeground": "red",
-			"selectionBackground": "bg2",
+			"selectionBackground": "bg3",
 			"nonEditableBackground": "bg0",
 			"ArrowButton": {
 				"background": "bg2",
@@ -104,8 +104,8 @@
 			"hoverBackground": "bg2",
 			"borderColor": "bg2",
 			"underlinedTabBackground": "bg1",
-			"inactiveUnderlineColor": "grey1",
-			"underlineColor": "blue",
+			"inactiveUnderlineColor": "bg5",
+			"underlineColor": "bg5",
 			"underlineHeight": 2
 		},
 		"Label": {
@@ -201,7 +201,7 @@
 			}
 		},
 		"StatusBar": {
-			"borderColor": "bg2"
+			"borderColor": "bg0"
 		},
 		"SearchEverywhere": {
 			"SearchField": {
@@ -227,7 +227,7 @@
 			"tabSelectionHeight": 2,
 			"focusColor": "bg2",
 			"hoverColor": "bg2",
-			"underlineColor": "blue",
+			"underlineColor": "bg5",
 			"contentAreaColor": "bg2"
 		},
 		"Table": {
@@ -260,17 +260,18 @@
 				"borderColor": "bg0"
 			},
 			"HeaderTab": {
-				"underlineColor": "blue",
+				"underlineColor": "bg5",
 				"underlineHeight": 2,
 				"underlinedTabBackground": "bg2",
-				"underlinedTabInactiveBackground": "bg0"
+				"underlinedTabInactiveBackground": "bg5"
 			}
 		},
 		"Tree": {
 			"modifiedItemForeground": "blue",
+			"hash": "blue",
 			"selectionBackground": "bg2",
 			"selectionInactiveBackground": "bg2",
-			"hash": "blue"
+			"selectionForeground": "fg0"
 		},
 		"VersionControl": {
 			"FileHistory": {
@@ -327,16 +328,7 @@
 			"Objects.RedStatus": "#c14a4a",
 			"Objects.Yellow": "#b47109",
 			"Objects.YellowDark": "#b47109",
-			"Objects.BlackText": "#654735",
-			"Checkbox.Foreground.Selected.Dark": "#c14a4a",
-			"Checkbox.Focus.Wide.Dark": "#c14a4a",
-			"Checkbox.Focus.Thin.Selected.Dark": "#c14a4a",
-			"Checkbox.Focus.Thin.Default.Dark": "#c14a4a",
-			"Checkbox.Border.Default.Dark": "#654735",
-			"Checkbox.Border.Selected.Dark": "#654735",
-			"Checkbox.Border.Disabled.Dark": "#654735",
-			"Checkbox.Background.Default.Dark": "#654735",
-			"Checkbox.Background.Disabled.Dark": "#654735"
+			"Objects.BlackText": "#654735"
 		}
 	}
 }
