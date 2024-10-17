@@ -8,10 +8,6 @@
 the [Gruvbox Material](https://github.com/sainnhe/gruvbox-material?tab=readme-ov-file)
 theme.
 
-## Description
-
-Gruvbox Material Light is a custom IntelliJ theme based
-
 ## Supported Languages
 
 - Java
@@ -29,12 +25,6 @@ Gruvbox Material Light is a custom IntelliJ theme based
 
 ![Gruvbox Material Light Hard](/resources/META-INF/gruvbox-material-light-hard.png)
 *Gruvbox Material Light (Hard)*
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, feel free to submit a
-pull request or open an issue on
-the [GitHub repository](ttps://github.com/your-repo).
 
 ## License
 
