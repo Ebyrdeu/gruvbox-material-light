@@ -13,7 +13,7 @@
     <option name="DELETED_LINES_COLOR" value="c14a4a" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb" />
     <option name="DIFF_SEPARATOR_WAVE" value="928374" />
-    <option name="DOCUMENTATION_COLOR" value="f2e5bc" />
+    <option name="DOCUMENTATION_COLOR" value="fbf1c7" />
     <option name="ERROR_HINT" value="efd2b3" />
     <option name="FILESTATUS_ADDED" value="6c782e" />
     <option name="FILESTATUS_COPIED" value="67d17" />
@@ -36,6 +36,7 @@
     <option name="FILESTATUS_changelistConflict" value="c14a4a" />
     <option name="FILESTATUS_modifiedOutside" value="45707a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="d3d5b8" />
+    <option name="GRID_STRIPE_COLOR" value="f4e8be" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="HINT_BORDER" value="e6d5ae" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="4c7a5d" />
@@ -43,13 +44,13 @@
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="45707a" />
     <option name="INDENT_GUIDE" value="" />
     <option name="INFORMATION_HINT" value="e6d5ae" />
-    <option name="LINE_NUMBERS_COLOR" value="d5c4a1" />
+    <option name="LINE_NUMBERS_COLOR" value="a89984" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4f3829" />
-    <option name="LOOKUP_COLOR" value="f2e5bc" />
+    <option name="LOOKUP_COLOR" value="fbf1c7" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="45707a" />
     <option name="MODIFIED_TAB_ICON" value="45707a" />
-    <option name="NOTIFICATION_BACKGROUND" value="ebdbb2" />
+    <option name="NOTIFICATION_BACKGROUND" value="f2e5bc" />
     <option name="PREVIEW_BORDER_COLOR" value="a89984" />
     <option name="PROMOTION_PANE" value="e6d5ae" />
     <option name="QUESTION_HINT" value="e6d5ae" />
@@ -58,13 +59,13 @@
     <option name="RIGHT_MARGIN_COLOR" value="928374" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="6f9352" />
-    <option name="SELECTION_BACKGROUND" value="e6d5ae" />
+    <option name="SELECTION_BACKGROUND" value="eee0b7" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="a89984" />
-    <option name="STICKY_LINES_HOVERED_COLOR" value="ebdbb2" />
-    <option name="ScrollBar.hoverThumbColor" value="eddeb5" />
-    <option name="ScrollBar.thumbColor" value="ebdbb2" />
-    <option name="TEARLINE_COLOR" value="e6d5ae" />
+    <option name="STICKY_LINES_HOVERED_COLOR" value="f2e5bc" />
+    <option name="ScrollBar.hoverThumbColor" value="f4e8be" />
+    <option name="ScrollBar.thumbColor" value="f2e5bc" />
+    <option name="TEARLINE_COLOR" value="eee0b7" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="dee8fc" />
@@ -406,7 +407,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="975e80" />
+        <option name="FOREGROUND" value="945e80" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -547,7 +548,7 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f2e5bc" />
+        <option name="FOREGROUND" value="fbf1c7" />
         <option name="BACKGROUND" value="654735" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -875,7 +876,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d5c4a1" />
+        <option name="BACKGROUND" value="ddccab" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
