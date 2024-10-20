@@ -22,9 +22,9 @@
 		"aqua": "#4c7a5d",
 		"blue": "#45707a",
 		"purple": "#945e80",
-		"bg_visal_red": "#f0ddc3",
-		"bg_visual_green": "#d7d9ae",
-		"bg_visual_blue": "#d3d5b8"
+		"bg_visal_red": "#f1d9b5",
+		"bg_visual_green": "#dee2b6",
+		"bg_visual_blue": "#dadec0"
 	},
 	"ui": {
 		"*": {
@@ -344,12 +344,12 @@
 	},
 	"icons": {
 		"ColorPalette": {
-			"Checkbox.Background.Default": "#d5c4a1",
+			"Checkbox.Background.Default": "#ddccab",
 			"Checkbox.Background.Disabled": "#a89984",
-			"Checkbox.Background.Selected": "#d5c4a1",
-			"Checkbox.Border.Default": "#d5c4a1",
+			"Checkbox.Background.Selected": "#ddccab",
+			"Checkbox.Border.Default": "#ddccab",
 			"Checkbox.Border.Disabled": "#a89984",
-			"Checkbox.Border.Selected": "#d5c4a1",
+			"Checkbox.Border.Selected": "#ddccab",
 			"Checkbox.Foreground.Disabled": "#7c6f64",
 			"Checkbox.Foreground.Selected": "#654735",
 			"Objects.BlackText": "#654735",
