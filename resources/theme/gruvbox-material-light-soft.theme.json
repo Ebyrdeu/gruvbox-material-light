@@ -276,7 +276,7 @@
 			"bottomSeparatorColor": "bg2"
 		},
 		"TextField": {
-			"background": "bg1"
+			"background": "bg0"
 		},
 		"ToggleButton": {
 			"buttonColor": "bg_visual_green",
