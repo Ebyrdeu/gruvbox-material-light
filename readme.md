@@ -8,11 +8,13 @@
 the [Gruvbox Material](https://github.com/sainnhe/gruvbox-material?tab=readme-ov-file)
 theme.
 
+**[Dark Theme Version](https://github.com/Ebyrdeu/gruvbox-material-dark)**
 ## Supported Languages
 
 - Java
 - Rust
 - Go
+- C/C++
 - JavaScript / TypeScript
 
 ## Screenshots
