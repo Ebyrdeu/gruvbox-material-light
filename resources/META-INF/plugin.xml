@@ -2,7 +2,7 @@
 <idea-plugin>
 	<!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
 	<id>gruvbox-material-light</id>
-	<version>1.0.4</version>
+	<version>1.1.0</version>
 
 	<!-- Public plugin name should be written in Title Case.
 		 Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -23,58 +23,49 @@
 	Light Theme - inspired by the <a href="https://github.com/sainnhe/gruvbox-material?tab=readme-ov-file">gruvbox-material</a>
 	<br>
 	<br>
-	Supported Languages: Java, Rust, Go, JS/TS
+	Supported Languages: Java, Rust, Go, C/C++, JS/TS
   ]]></description>
 
 	<!-- Short summary of new features and bugfixes in the latest plugin version.
 		 Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
 	<change-notes><![CDATA[
 
-	<b>1.0.4</b>
-	<ul>
-	   <li>
-	   fixed row second diagrams color
-	   </li>
-	</ul>
-	<b>1.0.3</b>
-	<ul>
-	   <li>
-	   fixed debugger execution point
-	   </li>
-		<li>
-		fixed bg/bg_visual_ colors in schemes for medium and hard
-		</li>
-	</ul>
-	<b>1.0.2</b>
-	<ul>
-		<li>
-		Added checkbox color
-		</li>
-		<li>
-		Fixed colors for alternate row
-		</li>
-		<li>
-		Fixed medium and hard bg colors for color scheme
-		</li>
-	</ul>
-	<b>1.0.1</b>
-	<ul>
-		<li>
-		Fixed input border for plugins window
-		</li>
-		<li>
-		Fixed notification background
-		</li>
-		<li>
-		Fixed vcs colors for all schemes
-		</li>
-	</ul>
-	<b>1.0.0</b>
-	<ul>
-		<li>
-            Initial release of the theme.
-		</li>
-	</ul>
+<b>1.1.0</b>
+<ul>
+	<li> Added support for C and C++. </li>
+	<li> Added support for Python. </li>
+	<li> Fixed JavaDoc code color</li>
+</ul>
+
+<b>1.0.4</b>
+<ul>
+	<li> Fixed the second row color issue in diagrams. </li>
+</ul>
+
+<b>1.0.3</b>
+<ul>
+	<li> Fixed the debugger execution point color</li>
+	<li> Fixed bg/bg_visual_ colors for "medium" and "hard" color schemes</li>
+</ul>
+
+<b>1.0.2</b>
+<ul>
+	<li> Added color support for checkboxes. </li>
+	<li> Fixed alternate row color</li>
+	<li> Fixed background colors for "medium" and "hard" color schemes. </li>
+</ul>
+
+<b>1.0.1</b>
+<ul>
+	<li> Fixed the input border issue in the plugins window. </li>
+	<li> Fixed notification background color problems. </li>
+	<li> Fixed VCS colors for all schemes. </li>
+</ul>
+
+<b>1.0.0</b>
+<ul>
+	<li> Initial release of the theme. </li>
+</ul>
   ]]></change-notes>
 
 	<!-- Product and plugin compatibility requirements.

@@ -1,12 +1,11 @@
 <scheme name="Gruvbox Material Light Hard" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2024.2.3.0.0</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2024.2.2.0.0</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="4c7a5d" />
     <option name="ANNOTATIONS_COLOR" value="654735" />
-    <option name="BREADCRUMBS_BORDER_COLOR" value="" />
     <option name="CARET_COLOR" value="654735" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -14,6 +13,7 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb" />
     <option name="DIFF_SEPARATOR_WAVE" value="928374" />
     <option name="DOCUMENTATION_COLOR" value="f9f5d7" />
+    <option name="DOC_COMMENT_GUIDE" value="ebdbb2" />
     <option name="DOC_COMMENT_LINK" value="4c7a5d" />
     <option name="ERROR_HINT" value="f0ddc3" />
     <option name="FILESTATUS_ADDED" value="6c782e" />
@@ -78,8 +78,8 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f3eac7" />
   </colors>
   <attributes>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="c14a4a" />
@@ -439,14 +439,12 @@
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="c14a4a" />
-        <option name="EFFECT_COLOR" value="999999" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="654737" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -606,21 +604,19 @@
     </option>
     <option name="DOC_CODE_BLOCK">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="f8f8f9" />
-        <option name="EFFECT_COLOR" value="ebecf0" />
+        <option name="FOREGROUND" value="654735" />
+        <option name="BACKGROUND" value="ebdbb2" />
       </value>
     </option>
     <option name="DOC_CODE_INLINE">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="f3f3f4" />
+        <option name="FOREGROUND" value="654735" />
+        <option name="BACKGROUND" value="ebdbb2" />
       </value>
     </option>
     <option name="DOC_TIPS_SHORTCUT">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="EFFECT_COLOR" value="a8adbd" />
+        <option name="FOREGROUND" value="654735" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -629,6 +625,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="Doxygen Parameter" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c14a4a" />
@@ -787,29 +784,29 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="4f3829" />
-        <option name="BACKGROUND" value="eee0b7" />
+        <option name="FOREGROUND" value="654735" />
+        <option name="BACKGROUND" value="ebdbb2" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="654735" />
-        <option name="BACKGROUND" value="eee0b7" />
+        <option name="BACKGROUND" value="ebdbb2" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="654735" />
-        <option name="BACKGROUND" value="eee0b7" />
+        <option name="BACKGROUND" value="ebdbb2" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="654735" />
-        <option name="BACKGROUND" value="eee0b7" />
+        <option name="BACKGROUND" value="ebdbb2" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="JS.EXPORTED.FUNCTION">
       <value>
         <option name="FOREGROUND" value="6c782e" />
@@ -826,8 +823,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="654735" />
@@ -909,7 +904,7 @@
     </option>
     <option name="MATCHED_TAG_NAME">
       <value>
-        <option name="BACKGROUND" value="d3d5b8" />
+        <option name="BACKGROUND" value="d9e1cc" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -927,11 +922,75 @@
         <option name="FOREGROUND" value="928374" />
       </value>
     </option>
+    <option name="OC.CONDITIONALLY_NOT_COMPILED">
+      <value>
+        <option name="FOREGROUND" value="928374" />
+      </value>
+    </option>
+    <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="c35e0a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.OVERLOADED_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="654735" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="45707a" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="b47109" />
+      </value>
+    </option>
+    <option name="OC.TEMPLATE_TYPE">
+      <value>
+        <option name="FOREGROUND" value="654735" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="b47109" />
+      </value>
+    </option>
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="45707a" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="c14a4a" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="4c7a5d" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="6c782e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="6c782e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="c14a4a" />
+      </value>
+    </option>
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="b47109" />
@@ -951,7 +1010,7 @@
         <option name="ERROR_STRIPE_COLOR" value="d3d5b8" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="945e80" />
@@ -1021,7 +1080,7 @@
         <option name="FOREGROUND" value="654735" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="6c7a4d" />
