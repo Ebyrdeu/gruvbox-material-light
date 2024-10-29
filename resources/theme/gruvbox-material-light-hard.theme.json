@@ -346,10 +346,10 @@
 		"ColorPalette": {
 			"Checkbox.Background.Default": "#ebdbb2",
 			"Checkbox.Background.Disabled": "#a89984",
-			"Checkbox.Background.Selected": "#ebdbb2",
+			"Checkbox.Background.Selected": "#dde5c2",
 			"Checkbox.Border.Default": "#ebdbb2",
 			"Checkbox.Border.Disabled": "#a89984",
-			"Checkbox.Border.Selected": "#ebdbb2",
+			"Checkbox.Border.Selected": "#dde5c2",
 			"Checkbox.Foreground.Disabled": "#7c6f64",
 			"Checkbox.Foreground.Selected": "#654735",
 			"Objects.BlackText": "#654735",
