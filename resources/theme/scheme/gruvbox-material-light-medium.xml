@@ -1,7 +1,7 @@
 <scheme name="Gruvbox Material Light Medium" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="ide">idea</property>
-    <property name="ideVersion">2024.2.3.0.0</property>
+    <property name="ideVersion">2024.2.4.0.0</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="4c7a5d" />
@@ -12,7 +12,7 @@
     <option name="DELETED_LINES_COLOR" value="c14a4a" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb" />
     <option name="DIFF_SEPARATOR_WAVE" value="928374" />
-    <option name="DOCUMENTATION_COLOR" value="f9f5d7" />
+    <option name="DOCUMENTATION_COLOR" value="fbf1c7" />
     <option name="DOC_COMMENT_GUIDE" value="ddccab" />
     <option name="DOC_COMMENT_LINK" value="4c7a5d" />
     <option name="ERROR_HINT" value="f1d9b5" />
@@ -47,7 +47,7 @@
     <option name="INFORMATION_HINT" value="eee0b7" />
     <option name="LINE_NUMBERS_COLOR" value="a89984" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="654735" />
-    <option name="LOOKUP_COLOR" value="f9f5d7" />
+    <option name="LOOKUP_COLOR" value="fbf1c7" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="45707a" />
     <option name="MODIFIED_TAB_ICON" value="45707a" />
@@ -996,7 +996,6 @@
         <option name="FOREGROUND" value="c14a4a" />
       </value>
     </option>
-    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="b47109" />
@@ -1008,6 +1007,9 @@
       <value>
         <option name="FOREGROUND" value="8080" />
       </value>
+    </option>
+    <option name="SCOPE_KEY_Tests">
+      <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
