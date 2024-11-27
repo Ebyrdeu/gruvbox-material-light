@@ -152,13 +152,13 @@
             "errorBorderColor": "bg3",
             "errorForeground": "fg0",
             "ToolWindow": {
-                "errorBackground": "fg0",
+                "errorBackground": "bg_visual_red",
                 "errorBorderColor": "bg3",
                 "errorForeground": "fg0",
-                "informativeBackground": "bg0",
+                "informativeBackground": "bg_visual_blue",
                 "informativeBorderColor": "bg3",
                 "informativeForeground": "fg0",
-                "warningBackground": "fg0",
+                "warningBackground": "bg_visual_yellow",
                 "warningBorderColor": "bg3",
                 "warningForeground": "fg0"
             }
