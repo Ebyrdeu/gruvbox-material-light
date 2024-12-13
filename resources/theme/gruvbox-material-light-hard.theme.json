@@ -51,7 +51,7 @@
         },
         "Borders": {
             "ContrastBorderColor": "bg1",
-            "color": "bg0"
+            "color": "bg1"
         },
         "Button": {
             "default": {
@@ -397,8 +397,8 @@
             "Actions.Blue": "#45707a",
             "Actions.Green": "#6c782e",
             "Actions.Grey": "#a89984",
-            "Actions.GreyInline": "#6c782e",
-            "Actions.GreyInline.Dark": "#6c782e",
+            "Actions.GreyInline": "#a89984",
+            "Actions.GreyInline.Dark": "#a89984",
             "Actions.Red": "#c14a4a",
             "Actions.Yellow": "#b47109"
         }
