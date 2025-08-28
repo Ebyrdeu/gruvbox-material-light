@@ -1,35 +1,39 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
-    <id>gruvbox-material-light</id>
-    <version>1.1.4</version>
+	<!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
+	<id>gruvbox-material-light</id>
+	<version>1.1.4</version>
 
-    <!-- Public plugin name should be written in Title Case.
-         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>Gruvbox Material Light Theme</name>
-    <category>UI</category>
+	<!-- Public plugin name should be written in Title Case.
+			 Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
+	<name>Gruvbox Material Light Theme</name>
+	<category>UI</category>
 
-    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="ebyrdeu.khnykin@gmail.com" url="https://github.com/Ebyrdeu">
-        Maxim Khnykin
-    </vendor>
+	<!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+	<vendor email="ebyrdeu.khnykin@gmail.com" url="https://github.com/Ebyrdeu">
+		Maxim Khnykin
+	</vendor>
 
-    <idea-version since-build="232"/>
+	<idea-version since-build="232"/>
 
-    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
-         Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
-         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-    <description><![CDATA[
+	<!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+			 Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
+			 Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+	<description><![CDATA[
 	Light Theme - inspired by the <a href="https://github.com/sainnhe/gruvbox-material?tab=readme-ov-file">gruvbox-material</a>
 	<br>
 	<br>
 	Supported Languages: Java, Rust, Go, Python, C/C++, JS/TS
   ]]></description>
 
-    <!-- Short summary of new features and bugfixes in the latest plugin version.
-         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
-    <change-notes><![CDATA[
+	<!-- Short summary of new features and bugfixes in the latest plugin version.
+			 Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+	<change-notes><![CDATA[
 
+<b>1.1.5</b>
+<ul>
+	<li>added styling for macOS scrollbar</li>
+</ul>
 <b>1.1.4</b>
 <ul>
 	<li>adjusted borders for side bars</li>
@@ -51,21 +55,21 @@
 </ul>
   ]]></change-notes>
 
-    <!-- Product and plugin compatibility requirements.
-         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
-    <depends>com.intellij.modules.platform</depends>
+	<!-- Product and plugin compatibility requirements.
+			 Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+	<depends>com.intellij.modules.platform</depends>
 
-    <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="gruvbox-light-hard-theme"
-                       path="/theme/gruvbox-material-light-hard.theme.json"
-        />
+	<extensions defaultExtensionNs="com.intellij">
+		<themeProvider id="gruvbox-light-hard-theme"
+		               path="/theme/gruvbox-material-light-hard.theme.json"
+		/>
 
-        <themeProvider id="gruvbox-light-medium-theme"
-                       path="/theme/gruvbox-material-light-medium.theme.json"
-        />
+		<themeProvider id="gruvbox-light-medium-theme"
+		               path="/theme/gruvbox-material-light-medium.theme.json"
+		/>
 
-        <themeProvider id="gruvbox-light-soft-theme"
-                       path="/theme/gruvbox-material-light-soft.theme.json"
-        />
-    </extensions>
+		<themeProvider id="gruvbox-light-soft-theme"
+		               path="/theme/gruvbox-material-light-soft.theme.json"
+		/>
+	</extensions>
 </idea-plugin>
