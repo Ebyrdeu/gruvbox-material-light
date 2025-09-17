@@ -64,10 +64,33 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="a89984" />
     <option name="STICKY_LINES_HOVERED_COLOR" value="f2e5bc" />
-    <option name="ScrollBar.hoverThumbColor" value="f4e8be" />
-    <option name="ScrollBar.thumbColor" value="f2e5bc" />
-    <option name="TEARLINE_COLOR" value="eee0b7" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="ddccab" />
+	  <option name="TEARLINE_COLOR" value="eee0b7"/>
+	  <option name="ScrollBar.background" value="fbf1c7"/>
+	  <option name="ScrollBar.trackColor" value="fbf1c7"/>
+	  <option name="ScrollBar.thumbColor" value="e5d5ad"/>
+	  <option name="ScrollBar.thumbBorderColor" value="e5d5ad"/>
+	  <option name="ScrollBar.hoverTrackColor" value="f4e8be"/>
+	  <option name="ScrollBar.hoverThumbColor" value="ddccab"/>
+	  <option name="ScrollBar.hoverThumbBorderColor" value="ddccab"/>
+	  <option name="ScrollBar.Transparent.trackColor" value="fbf1c7"/>
+	  <option name="ScrollBar.Transparent.thumbColor" value="e5d5ad"/>
+	  <option name="ScrollBar.Transparent.thumbBorderColor" value="e5d5ad"/>
+	  <option name="ScrollBar.Transparent.hoverTrackColor" value="f4e8be"/>
+	  <option name="ScrollBar.Transparent.hoverThumbColor" value="ddccab"/>
+	  <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ddccab"/>
+	  <option name="ScrollBar.Mac.trackColor" value="fbf1c7"/>
+	  <option name="ScrollBar.Mac.thumbColor" value="e5d5ad"/>
+	  <option name="ScrollBar.Mac.thumbBorderColor" value="e5d5ad"/>
+	  <option name="ScrollBar.Mac.hoverTrackColor" value="f4e8be"/>
+	  <option name="ScrollBar.Mac.hoverThumbColor" value="ddccab"/>
+	  <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ddccab"/>
+	  <option name="ScrollBar.Mac.Transparent.trackColor" value="fbf1c7"/>
+	  <option name="ScrollBar.Mac.Transparent.thumbColor" value="e5d5ad"/>
+	  <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="e5d5ad"/>
+	  <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="f4e8be"/>
+	  <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ddccab"/>
+	  <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ddccab"/>
+	  <option name="VCS_ANNOTATIONS_COLOR_1" value="ddccab"/>
     <option name="VCS_ANNOTATIONS_COLOR_2" value="e5d5ad" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="eee0b7" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="f2e5bc" />

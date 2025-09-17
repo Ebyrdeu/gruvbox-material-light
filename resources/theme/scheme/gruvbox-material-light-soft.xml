@@ -64,9 +64,32 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="a89984" />
     <option name="STICKY_LINES_HOVERED_COLOR" value="ebdbb2" />
-    <option name="ScrollBar.hoverThumbColor" value="eddeb5" />
-    <option name="ScrollBar.thumbColor" value="ebdbb2" />
-    <option name="TEARLINE_COLOR" value="e6d5ae" />
+	  <option name="ScrollBar.background" value="f2e5bc"/>
+	  <option name="ScrollBar.trackColor" value="f2e5bc"/>
+	  <option name="ScrollBar.thumbColor" value="dac9a5"/>
+	  <option name="ScrollBar.thumbBorderColor" value="dac9a5"/>
+	  <option name="ScrollBar.hoverTrackColor" value="eddeb5"/>
+	  <option name="ScrollBar.hoverThumbColor" value="d5c4a1"/>
+	  <option name="ScrollBar.hoverThumbBorderColor" value="d5c4a1"/>
+	  <option name="ScrollBar.Transparent.trackColor" value="f2e5bc"/>
+	  <option name="ScrollBar.Transparent.thumbColor" value="dac9a5"/>
+	  <option name="ScrollBar.Transparent.thumbBorderColor" value="dac9a5"/>
+	  <option name="ScrollBar.Transparent.hoverTrackColor" value="eddeb5"/>
+	  <option name="ScrollBar.Transparent.hoverThumbColor" value="d5c4a1"/>
+	  <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="d5c4a1"/>
+	  <option name="ScrollBar.Mac.trackColor" value="f2e5bc"/>
+	  <option name="ScrollBar.Mac.thumbColor" value="dac9a5"/>
+	  <option name="ScrollBar.Mac.thumbBorderColor" value="dac9a5"/>
+	  <option name="ScrollBar.Mac.hoverTrackColor" value="eddeb5"/>
+	  <option name="ScrollBar.Mac.hoverThumbColor" value="d5c4a1"/>
+	  <option name="ScrollBar.Mac.hoverThumbBorderColor" value="d5c4a1"/>
+	  <option name="ScrollBar.Mac.Transparent.trackColor" value="f2e5bc"/>
+	  <option name="ScrollBar.Mac.Transparent.thumbColor" value="dac9a5"/>
+	  <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="dac9a5"/>
+	  <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="eddeb5"/>
+	  <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="d5c4a1"/>
+	  <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="d5c4a1"/>
+	  <option name="TEARLINE_COLOR" value="e6d5ae"/>
     <option name="VCS_ANNOTATIONS_COLOR_1" value="d5c4a1" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="dac9a5" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="e6d5ae" />
